@@ -2,6 +2,8 @@
   <img src="assets/logo.png" alt="Soroban Hub Logo" width="250" />
 </p>
 
+CONTRACT_ID = "CAQ4OLY43L3T5LGS4JE2ML5HXBAOB7232EDHKZZORY73VMQ27FL4HNYF"
+
 # Soroban Hub: Decentralized Community Platform
 
 A fully decentralized community engagement application built on the Stellar network using Soroban smart contracts. This platform features a breathtaking **Web3 Glassmorphism** aesthetic, high-performance interactions, and seamless wallet connectivity.
